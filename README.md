@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
