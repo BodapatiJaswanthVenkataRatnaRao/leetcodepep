@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
