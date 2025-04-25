@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0387-first-unique-character-in-a-string) |
+| [0812-rotate-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0739-daily-temperatures) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
