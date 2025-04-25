@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2032-largest-odd-number-in-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1917-maximum-average-pass-ratio](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1917-maximum-average-pass-ratio) |
+| [2032-largest-odd-number-in-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/2032-largest-odd-number-in-string) |
 ## Memoization
 |  |
 | ------- |
