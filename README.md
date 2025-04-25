@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
