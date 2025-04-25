@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0198-house-robber) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
