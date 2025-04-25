@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
