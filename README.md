@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0907-koko-eating-bananas) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1917-maximum-average-pass-ratio](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1917-maximum-average-pass-ratio) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1917-maximum-average-pass-ratio](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1917-maximum-average-pass-ratio) |
 ## Memoization
 |  |
 | ------- |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
