@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0596-classes-more-than-5-students) |
+| [1258-article-views-i](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1258-article-views-i) |
 ## Sliding Window
 |  |
 | ------- |
