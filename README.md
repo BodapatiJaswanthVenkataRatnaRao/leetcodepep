@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -211,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
