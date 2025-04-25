@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0120-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0120-triangle) |
 ## Binary Search
 |  |
 | ------- |
