@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -186,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
