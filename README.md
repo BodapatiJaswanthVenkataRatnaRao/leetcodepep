@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
