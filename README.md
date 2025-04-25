@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
