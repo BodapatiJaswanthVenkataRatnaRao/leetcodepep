@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
