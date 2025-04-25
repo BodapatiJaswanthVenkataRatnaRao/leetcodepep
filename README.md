@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1917-maximum-average-pass-ratio](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/1917-maximum-average-pass-ratio) |
+| [2058-concatenation-of-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
