@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
