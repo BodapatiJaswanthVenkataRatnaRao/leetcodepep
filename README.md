@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0055-jump-game) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Memoization
 |  |
 | ------- |
