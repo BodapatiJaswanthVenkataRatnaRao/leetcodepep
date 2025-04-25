@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0128-longest-consecutive-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0102-binary-tree-level-order-traversal) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/BodapatiJaswanthVenkataRatnaRao/leetcodepep/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
